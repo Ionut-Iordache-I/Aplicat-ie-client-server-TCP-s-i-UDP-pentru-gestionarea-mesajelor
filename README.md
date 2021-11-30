@@ -1,1 +1,1 @@
-# Aplicat-ie-client-server-TCP-s-i-UDP-pentru-gestionarea-mesajelor
+# Aplicatie-client-server-TCP-si-UDP-pentru-gestionarea-mesajelor
